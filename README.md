@@ -1,6 +1,6 @@
 # Python Automated Media Downloader
 
-> Download videos from **any website**. You bring the link, it brings the fire.  
+> A powerful and robust video downloader which can Download videos from virtually **any website** really fast. 
 > Powered by [`yt-dlp`](https://github.com/yt-dlp/yt-dlp) + your browser’s secret weapon: **NetworkSniffer**.
 
 ---
