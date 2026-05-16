@@ -1,4 +1,4 @@
-# 🧠 Python Automated Media Downloader
+# Python Automated Media Downloader
 
 > Download videos from **any website**. You bring the link, it brings the fire.  
 > Powered by [`yt-dlp`](https://github.com/yt-dlp/yt-dlp) + your browser’s secret weapon: **NetworkSniffer**.
@@ -10,7 +10,7 @@
 This Python script lets you download videos in **the highest available quality** from:
 - **YouTube**
 - **Vimeo**, **Dailymotion**, etc.
-- And pretty much **any other website** (with a tiny trick 👀)
+- And pretty much **any other website**
 
 It’s lightweight, terminal-based, and crazy easy to use.
 
@@ -40,7 +40,7 @@ Okay, here’s the secret sauce:
 ⚠️ **WARNING Please be mindful**:  
 This tool is meant for **educational and personal use only**.  
 Always respect content creators, platforms’ terms of service, and copyright laws.  
-If it’s not your content or you don’t have permission — don’t download it. ✌️
+If it’s not your content or you don’t have permission — don’t download it. 
 
 ---
 ## Code
